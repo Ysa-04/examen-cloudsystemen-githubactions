@@ -25,3 +25,5 @@ jobs:
           excluded_paths: "ignore,.github"
     
 -> hij geeft error bij ophalen van data. Ik krijg een error die zegt dat de permission tot mijn github repo denied is, maar die staat public. 
+
+https://github.com/Ysa-04/examen-cloudsystemen-githubactions
